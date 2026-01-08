@@ -10,10 +10,10 @@
 
 # Brookshear Makine Dili Yorumlayıcısı (Decoder)
 
-##Proje Ne Hakkında?
+## Proje Ne Hakkında?
 Projemin konusu, kullanıcıdan 4 haneli makine kodu alıp bunu parçalara ayırmak ve Appendix C tablosundaki kurallara göre ne işe yaradıklarını ekrana yazdırmak.
 
-##Sunum Videosu
+## Sunum Videosu
 
 # Kodun Mantığı
 
