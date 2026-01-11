@@ -31,9 +31,13 @@ Daha sonra Appendix C tablosuna göre ilgili komutun ne yaptığı kullanıcıya
 - Çıkmak istediğinizde kod yerine `X` yazmanız yeterli.
 
 ## Programda Kullanılanlar:
+
 input() → kullanıcıdan veri almak için
+
 print() → ekrana yazı yazdırmak için
+
 while, if-elif, for → temel kontrol yapıları
+
 .upper() → yazıyı büyük harfe çevirmek için
 
 Bunların hiçbiri kütüphane değildir, Python’un temel yapılarıdır.
