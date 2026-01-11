@@ -13,7 +13,6 @@
 ## Proje Ne Hakkında?
 Projemin konusu, kullanıcıdan 4 haneli makine kodu alıp bunu parçalara ayırmak ve Appendix C tablosundaki kurallara göre ne işe yaradıklarını ekrana yazdırmak.
 
-## Sunum Videosu
 
 # Kodun Mantığı
 
